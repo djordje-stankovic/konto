@@ -6,6 +6,7 @@ Dve verzije istog sadržaja:
 |---|---|
 | `/` (koren) | „sveska“: papir sa linijama, T-konto koji sam knjiži, pečat |
 | `/v2/` | ozbiljna: tamnoplava, kost i mesing, bilans koji se usaglašava |
+| `/v3/` | moderna „bento“: pločice, kobalt i limeta, kviz „paušal ili knjige?“, računi koji se sami sređuju |
 
 Jedna stranica, bez biblioteka i bez build koraka. Otvara se duplim klikom na
 `index.html`, ili `node pregled.js` → http://localhost:8092
