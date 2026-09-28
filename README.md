@@ -1,5 +1,12 @@
 # Konto Odžaci — sajt
 
+Dve verzije istog sadržaja:
+
+| Folder | Stil |
+|---|---|
+| `/` (koren) | „sveska“: papir sa linijama, T-konto koji sam knjiži, pečat |
+| `/v2/` | ozbiljna: tamnoplava, kost i mesing, bilans koji se usaglašava |
+
 Jedna stranica, bez biblioteka i bez build koraka. Otvara se duplim klikom na
 `index.html`, ili `node pregled.js` → http://localhost:8092
 
